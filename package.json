@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modal.js",
+  "scripts": {
+    "dev": "parcel npm-bootstrap.html",
+    "build": "parcel build npm-bootstrap.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-seongjoo/bootstrap-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-seongjoo/bootstrap-practice/issues"
+  },
+  "homepage": "https://github.com/dev-seongjoo/bootstrap-practice#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.58.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0"
+  }
+}
